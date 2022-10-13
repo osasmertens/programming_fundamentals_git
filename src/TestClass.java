@@ -2,7 +2,7 @@ public class TestClass {
 
     private String name;
 
-    public TestClass(){
+    public TestClass() {
         this.name="";
     }
 
@@ -11,7 +11,7 @@ public class TestClass {
         System.out.println("Hello world!");
     }
 
-    public String getName(){
+    public String getName() {
         return this.name;
     }
 }
